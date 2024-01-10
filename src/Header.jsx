@@ -5,7 +5,7 @@ const Header = () => {
     <> 
        <header className='header'>
         <div className="left">
-            <img src="./troll.png" className='image1' alt="meme" />
+            <img src="./images/troll.png" className='image1' alt="meme" />
             <h2>Meme Generator</h2>
         </div>
         <div className='right'>
